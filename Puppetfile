@@ -13,8 +13,8 @@ mod 'puppetlabs-haproxy', '4.5.0'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  commit: '1b6f89afdde0df7f9433a163d5c4b5328eac5779'
 
-mod 'apache',
-  git:    'https://github.com/puppetlabs/puppetlabs-apache',
-  branch: 'docs_experiment'
+#mod 'apache',
+#  git:    'https://github.com/puppetlabs/puppetlabs-apache',
+#  branch: 'docs_experiment'
 
 
