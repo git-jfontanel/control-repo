@@ -6,7 +6,8 @@ mod 'puppetlabs/inifile', '4.4.0'
 mod 'puppetlabs/stdlib',  '6.5.0'
 mod 'puppetlabs/concat',  '6.4.0'
 mod 'puppetlabs-haproxy', '4.5.0'
-#mod 'noma4i-windows_updates', '0.3.0'
+mod 'noma4i-windows_updates', '0.3.0'
+mod 'puppetlabs-patching_as_code', '0.2.7'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
